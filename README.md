@@ -2,7 +2,7 @@
 
 Este projeto implementa um sistema simples mas poderoso de gerenciamento de conteúdo utilizando hashes SHA-256 para organização e acesso de arquivos.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 ### 1. Sistema de Upload e Categorização
 - Upload de arquivos e textos
@@ -16,7 +16,7 @@ Este projeto implementa um sistema simples mas poderoso de gerenciamento de cont
 - Armazenamento de metadados em JSON
 - Suporte para informações adicionais como título, descrição e autor
 
-## 🔧 Como Funciona
+## Como Funciona
 
 ### Sistema de Upload
 O sistema utiliza hash SHA-256 para identificar de forma única tanto arquivos quanto categorias:
@@ -46,26 +46,26 @@ O sistema permite salvar conteúdo da web de forma organizada:
    - Data de download
    - Categoria personalizada (se fornecida)
 
-## 💻 Requisitos
+## Requisitos
 
 - PHP 7.0 ou superior
 - Extensão cURL habilitada
 - Permissões de escrita nos diretórios do projeto
 
-## 🔒 Segurança
+## Segurança
 
 - O sistema bloqueia o upload de arquivos PHP por motivos de segurança
 - Utiliza sanitização de entrada para evitar injeção de código
 - Implementa verificações de validação para garantir a integridade dos dados
 
-## 🤝 Contribuições
+## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este projeto.
 
 ## 📝 Licença
 
-[MIT]
+MIT
 
 ---
 
-Desenvolvido com ❤️ por [Arthur S. Sacramento]
+Desenvolvido com ❤️ por Arthur S. Sacramento
