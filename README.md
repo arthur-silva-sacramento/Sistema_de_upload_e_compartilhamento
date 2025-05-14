@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Conteúdo com Hash SHA-256
 
-Este projeto implementa um sistema simples mas poderoso de gerenciamento de conteúdo utilizando hashes SHA-256 para organização e acesso de arquivos.
+Este projeto implementa um sistema simples de gerenciamento de conteúdo utilizando hashes SHA-256 para organização e acesso de arquivos.
 
 ## Funcionalidades
 
