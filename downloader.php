@@ -391,12 +391,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['url'])) {
         </form>
     </div>
 
-<div class="banner-container">
-  <a href="https://3gp.neocities.org/redirect.html" target="_blank" rel="noopener">
-    <img src="https://3gp.neocities.org/banner.jpg" alt="Banner Ad" class="banner-ad">
-  </a>
-</div>
-    
     <footer>
         <p>&copy; 2025 URL Downloader. All rights reserved.</p>
     </footer>

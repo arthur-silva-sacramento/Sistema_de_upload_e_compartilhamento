@@ -560,13 +560,7 @@ textarea[readonly] {
     <input type="submit" value="Upload">
 </form>
 
-<div align="center"><a href="decen/index.php">Advanced</a> <a href="downloader.php">URL Upload</a> <a href="index_pt.php">PT</a></div>
-
-<div class="banner-container">
-                    <a href="https://3gp.neocities.org/redirect.html" target="_blank" rel="noopener">
-                        <img src="https://3gp.neocities.org/banner.jpg" alt="Banner Ad" class="banner-ad">
-                    </a>
-</div>
+<a href="downloader.php">URL Upload</a> <a href="index_pt.php">PT</a></div>
 
 
 </body>
