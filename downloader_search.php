@@ -26,8 +26,8 @@ function searchJsonFiles($dir, $searchTerm) {
 
 $searchTerm = $_GET['search'] ?? '';
 $results = [];
-if (file_exists('categories_json') && is_dir('categories_json')) {
-    $results = searchJsonFiles('categories_json', $searchTerm);
+if (file_exists('metadata') && is_dir('metadata')) {
+    $results = searchJsonFiles('metadata', $searchTerm);
 }
 ?>
 
